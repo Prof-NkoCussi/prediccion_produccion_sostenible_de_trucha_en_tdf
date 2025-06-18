@@ -1,4 +1,5 @@
 ![Portada Politec](img/PORTADA_POLITEC.png)
+
 Predicción de Producción Sostenible de Trucha en TDF mediante Modelos de Aprendizaje Automático
 ==============================
 
