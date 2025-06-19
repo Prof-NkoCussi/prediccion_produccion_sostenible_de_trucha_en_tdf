@@ -12,7 +12,10 @@
 - **Profesor:** Martín Mirabete
 
 ---
+## Recursos Multimedia
+- [Explicación del proceso - Google Drive](https://drive.google.com/...)
 
+---
 Predicción de Producción Sostenible de Trucha en TDF mediante Modelos de Aprendizaje Automático
 ==============================
 
