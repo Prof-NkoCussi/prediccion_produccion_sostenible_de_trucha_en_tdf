@@ -1,5 +1,18 @@
 ![Portada Politec](img/PORTADA_POLITEC.png)
 
+---
+
+**Carrera:** Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial  
+**Institución:** Politécnico Malvinas Argentinas  
+**Materia:** Aprendizaje Automático
+
+**Proyecto:** Predicción de Producción Sostenible de Trucha en Tierra del Fuego
+
+- **Alumno:** Nicolás Cussi
+- **Profesor:** Martín Mirabete
+
+---
+
 Predicción de Producción Sostenible de Trucha en TDF mediante Modelos de Aprendizaje Automático
 ==============================
 
